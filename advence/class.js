@@ -34,5 +34,6 @@ const cat = new Animal('d', 'e');
 
 console.log(cat);
 console.log(dog);
+console.log(dog.color);
 
 cat.showInfo();
